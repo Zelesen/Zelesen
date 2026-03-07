@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Django-blueviolet?style=for-the-badge">
     <img src="https://img.shields.io/badge/Status-Building%20SaaS-success?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Location-Surat,%20India-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Location-Mumbai,%20India-orange?style=for-the-badge">
   </p>
 
   ### ⚡ Turning Complex Problems into Elegant Code
