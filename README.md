@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Aman%20Mourya&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Architect%20|%20AI%20Innovator&descAlignY=65&descSize=25" width="100%" />
+  <h1 align="center">Hi 👋, I'm Aman Mourya</h1>
 
   <br/>
 
