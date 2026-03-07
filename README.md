@@ -1,94 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kashida&color=00d2ff&height=200&section=header&text=Aman%20Mourya&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Aman%20Mourya&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Architect%20|%20AI%20Innovator&descAlignY=65&descSize=25" width="100%" />
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-427c-8590-c593418f7db1.gif" width="100px">
-  
-  ## ⚡ About Me
-  **Building scalable web apps & exploring the frontiers of AI**
-  
-  *Passionate about Python, Django, and creating tools that simplify real-world problems.*
-  
-  [🌐 Portfolio](https://my-porfolio-virid-seven.vercel.app/) • [✍️ Blog](https://my-porfolio-virid-seven.vercel.app/blog) • [💼 LinkedIn](https://linkedin.com/in/aman-mourya)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Django-blueviolet?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Building%20SaaS-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Location-Surat,%20India-orange?style=for-the-badge">
+  </p>
 
+  ### ⚡ Turning Complex Problems into Elegant Code
+  *Python Developer specializing in RAG Systems, LLM Integration, and Creative UI/UX.*
+  
+  [🌐 Live Portfolio](https://my-porfolio-virid-seven.vercel.app/) • [📝 Tech Blog](https://my-porfolio-virid-seven.vercel.app/blog) • [📩 Get In Touch](mailto:amanmaurya847@gmail.com)
 </div>
 
 ---
 
-### 🚀 Quick Links
+### 🛠️ The Arsenal (Tech Stack)
 
-<p align="center">
-<a href="https://github.com/Zelesen/MyPorfolio"><img src="https://img.shields.io/badge/-My_Portfolio-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Kishore341507/aui"><img src="https://img.shields.io/badge/-AUI_Project-FF4B11?style=for-the-badge&logo=opensource&logoColor=white" /></a>
-<a href="mailto:amanmaurya847@gmail.com"><img src="https://img.shields.io/badge/-Hire_Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,ts,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,tensorflow,pytorch,github&theme=dark" />
+</div>
 
 ---
 
-### 💻 Tech Ecosystem
+### 🚀 Featured Missions
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <b>Backend & Core</b><br />
-      <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript" />
+    <td width="50%">
+      <h4>🏗️ Current Projects</h4>
+      <ul>
+        <li><b><a href="https://github.com/Zelesen/MyPorfolio">SaaS Clippers</a></b> - Campaign & Creator Management.</li>
+        <li><b><a href="https://github.com/Kishore341507/aui">AUI</a></b> - Collaborative Open-Source UI library.</li>
+        <li><b>AI Answer Engines</b> - Optimizing for LLM search (AEO).</li>
+      </ul>
     </td>
-    <td align="center" width="33%">
-      <b>Frontend & UI</b><br />
-      <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-    </td>
-    <td align="center" width="33%">
-      <b>AI & DevOps</b><br />
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,postgres" />
+    <td width="50%">
+      <h4>🧠 Knowledge Quest</h4>
+      <ul>
+        <li><b>Advanced RAG</b> - Mastering ChromaDB & LangChain.</li>
+        <li><b>3D Web</b> - Integrating Three.js & GSAP.</li>
+        <li><b>DSA</b> - Solving problems one node at a time.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Performance Metrics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zelesen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelesen&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zelesen&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelesen&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelesen&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelesen&theme=transparent&currStreakNum=00d2ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
 
-### 🔭 Current Missions
-
-- 🏗️ **Currently Working on:** [Personal Portfolio](https://github.com/Zelesen/MyPorfolio) - Enhancing UI/UX with modern animations.
-- 🧠 **Learning:** Advanced Data Structures & LLM Fine-tuning.
-- 🤝 **Collaboration:** Open for AI-driven analytics projects and Open Source UI tools.
-- 💬 **Ask me about:** Why Django is awesome, or how to debug Python at 3 AM.
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/aman-mourya" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram" />
-  </a>
-</p>
+### 📬 Let's Build Something Together
 
 <div align="center">
+  <a href="https://linkedin.com/in/aman-mourya" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d2ff&height=30&section=footer" width="100%" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=zelesen&label=PROFILE+VIEWS&color=00d2ff&style=flat-square" alt="Views" />
 </div>
 
 ---
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  ⭐ <b>Don't forget to star my repositories if you find them useful!</b>
+  <i>"Automating the present, coding the future."</i><br/>
+  <b>Built with 💻 and ☕ by Aman Mourya</b>
 </p>
