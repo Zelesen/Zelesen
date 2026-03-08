@@ -33,8 +33,7 @@
     <td width="50%">
       <h4>🏗️ Current Projects</h4>
       <ul>
-        <li><b><a href="https://github.com/Zelesen/MyPorfolio">SaaS Clippers</a></b> - Campaign & Creator Management.</li>
-        <li><b><a href="https://github.com/Kishore341507/aui">AUI</a></b> - Collaborative Open-Source UI library.</li>
+        <li><b><a href="https://github.com/Zelesen/MyPorfolio">Self Portfolio</a></b> - Reach me Out.</li>
         <li><b>AI Answer Engines</b> - Optimizing for LLM search (AEO).</li>
       </ul>
     </td>
