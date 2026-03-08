@@ -66,13 +66,13 @@
 ### 📬 Let's Build Something Together
 
 <div align="center">
-  <a href="https://linkedin.com/in/aman-mourya" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-maurya-031990242/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/aman_m._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
