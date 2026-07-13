@@ -12,7 +12,7 @@
   ### ⚡ Turning Complex Problems into Elegant Code
   *Python Developer specializing in RAG Systems, LLM Integration, and Creative UI/UX.*
   
-  [🌐 Live Portfolio](https://my-porfolio-virid-seven.vercel.app/) • [📝 Tech Blog](https://my-porfolio-virid-seven.vercel.app/blog) • [📩 Get In Touch](mailto:amanmaurya847@gmail.com)
+  [🌐 Live Portfolio]([https://my-porfolio-virid-seven.vercel.app/](https://aman-portfolio-nine-alpha.vercel.app/)) • [📝 Tech Blog](https://my-porfolio-virid-seven.vercel.app/blog) • [📩 Get In Touch](mailto:amanmaurya847@gmail.com)
 </div>
 
 ---
